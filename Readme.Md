@@ -1,5 +1,6 @@
 #  Rainfall Prediction using Machine Learning
 
+
 This project predicts whether rainfall will occur based on meteorological data using a machine learning classification model.
 
 ##  Overview
@@ -44,4 +45,6 @@ Rainfall prediction is an important aspect of weather forecasting that helps in 
    **3. Run the Jupyter notebook:**
 
    jupyter notebook Rainfall-Prediction.ipynb
+
+
 
